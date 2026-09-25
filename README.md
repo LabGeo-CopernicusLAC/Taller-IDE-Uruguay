@@ -62,13 +62,13 @@ Esto crea un entorno de Python llamado **2026Coplac**. El entorno no se activa p
 ```bash
 conda activate 2026Coplac
 ```
-
+<!--
 Como último paso antes de iniciar JupyterLab, vamos a registrar el entorno como *kernel* en Jupyter, ejecutando:
 
 ```bash 
 python -m ipykernel install --user --name 2026Coplac --display-name "Python (2026Coplac)"
 ```
-
+ -->
 ```bash
 # Windows
 setup_kernel.bat
