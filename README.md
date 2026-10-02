@@ -12,7 +12,7 @@ Taller dictado por el Servicio de Atlas Urbano y el Servicio de Cobertura y uso 
 | Sesión | Fecha | Horario |
 |---|---|---|
 | 1 · Virtual (Zoom) | 6 octubre 2026 | 10:00 – 12:00 |
-| 2 · Presencial (CMM–FCFM) | 8 octubre 2026 | 09:00 – 13:00 |
+| 2 · Presencial (IDE-Uruguay) | 8 octubre 2026 | 09:00 – 13:00 |
 
 ## Prerrequisitos
 
