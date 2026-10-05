@@ -1,0 +1,22 @@
+name: lclu_idera26_workshop
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - notebook
+  - ipykernel
+  - ipywidgets
+  - numpy
+  - pandas
+  - geopandas
+  - rasterio
+  - shapely
+  - pyproj
+  - fiona
+  - matplotlib
+  - tqdm
+  - openpyxl
+  - nbformat
+  - affine
+  - unidecode

@@ -5,14 +5,13 @@
  
 # Taller CopernicusLAC Chile - IDE Uruguay: Exploración aplicada de Atlas Urbano, Cobertura y Uso de Suelo y datos *in situ* para la generación e interpretación de evidencia territorial
 
-Taller dictado por el Servicio de Atlas Urbano y el Servicio de Cobertura y uso de suelos de CopernicusLAC Chile coordinad en conjunto con la IDE Uruguay, enfocado en el análisis integrado de la Región de Valparaíso.
-
+Taller dictado por el Servicio de Atlas Urbano y el Servicio de Cobertura y uso de suelos de CopernicusLAC Chile coordinad en conjunto con la IDE Uruguay.
 ## ¿Cuándo se dicta?
 
 | Sesión | Fecha | Horario |
 |---|---|---|
 | 1 · Virtual (Zoom) | 6 octubre 2026 | 10:00 – 12:00 |
-| 2 · Presencial (CMM–FCFM) | 8 octubre 2026 | 09:00 – 13:00 |
+| 2 · Presencial (IDE-Uruguay) | 8 octubre 2026 | 09:00 – 13:00 |
 
 ## Prerrequisitos
 
@@ -53,7 +52,7 @@ Para crear el entorno, debes abrir **Anaconda Prompt** (Windows) o el **terminal
 En esta carpeta hay un archivo llamado `environment.yml`, el cual contiene toda la información para instalar los paquetes a utilizar. Nuevamente en la carpeta correcta, ejecutar el siguiente comando:
 
 ```bash
-cd Taller_IDE_CopernicusLAC-Chile
+cd Taller-IDE-Uruguay
 conda env create -f environment.yml
 ```
 
