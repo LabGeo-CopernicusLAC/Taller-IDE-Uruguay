@@ -53,7 +53,7 @@ Para crear el entorno, debes abrir **Anaconda Prompt** (Windows) o el **terminal
 En esta carpeta hay un archivo llamado `environment.yml`, el cual contiene toda la información para instalar los paquetes a utilizar. Nuevamente en la carpeta correcta, ejecutar el siguiente comando:
 
 ```bash
-cd Taller_IDE_CopernicusLAC-Chile
+cd Taller-IDE-Uruguay
 conda env create -f environment.yml
 ```
 
