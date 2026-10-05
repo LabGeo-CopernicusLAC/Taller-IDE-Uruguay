@@ -1,0 +1,1 @@
+https://mapas.ide.uy/geoserver-vectorial/ideuy/wfs?service=WFS&request=GetFeature&version=1.0.0&outputFormat=shape-zip&typeName=municipios_20250507
