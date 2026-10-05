@@ -5,8 +5,7 @@
  
 # Taller CopernicusLAC Chile - IDE Uruguay: Exploración aplicada de Atlas Urbano, Cobertura y Uso de Suelo y datos *in situ* para la generación e interpretación de evidencia territorial
 
-Taller dictado por el Servicio de Atlas Urbano y el Servicio de Cobertura y uso de suelos de CopernicusLAC Chile coordinad en conjunto con la IDE Uruguay, enfocado en el análisis integrado de la Región de Valparaíso.
-
+Taller dictado por el Servicio de Atlas Urbano y el Servicio de Cobertura y uso de suelos de CopernicusLAC Chile coordinad en conjunto con la IDE Uruguay.
 ## ¿Cuándo se dicta?
 
 | Sesión | Fecha | Horario |
