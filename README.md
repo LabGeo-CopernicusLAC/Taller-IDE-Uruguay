@@ -15,22 +15,34 @@ Taller dictado por el Servicio de Atlas Urbano y el Servicio de Cobertura y uso 
 
 ## Prerrequisitos
 
-Se requiere `Jupyter Notebook` para poder ejecutar este código. Se recomienda que se instale la última distribución de [Anaconda](https://www.anaconda.com/docs/main) o de [Miniconda](https://docs.conda.io/en/latest/miniconda.html) (más ligero) en su sistema operativo. Las distribuciones de Anaconda y Miniconda incluyen Jupyter Notebook.
+Se requierede `Git` y `Jupyter Notebook` para poder realizar este taller. Se recomienda que se instale la última distribución de [Anaconda](https://www.anaconda.com/docs/main) o de [Miniconda](https://docs.conda.io/en/latest/miniconda.html) (más ligero) en su sistema operativo. Las distribuciones de Anaconda y Miniconda incluyen Jupyter Notebook.
 
 ## Instalación desde GitHub
-La manera más simple para instalar los paquetes es via Git. Los usuarios pueden clonar este repositorio ejecutando los siguientes comandos desde su `terminal` (Linux/OSx) o desde el `Anaconda prompt`.
+La manera más simple para instalar los paquetes es via `Git`. Los usuarios pueden clonar este repositorio ejecutando los siguientes comandos desde su `terminal` (Linux/OSx) o desde el `Anaconda prompt`.
+
+Si no tienes tienes `Git` instalado o no sabes si esta instalado, recomendamos asegurarte que `conda` está actualizado mediante el siguiente código:
+
+```bash
+conda update -n base conda
+conda update --all
+```
+Ahora podemos asegurarnos de tener `Git` ejecutando la siguiente línea:
+
+```bash
+conda install git
+```
 
 En general el terminal se encuentra en el menú de inicio de la mayoría de las distribuciones de Linux y en la carpeta de Aplicaciones/Utilidades en OS X. Como alternativa, se debería poder abrir el terminal de Anaconda desde el menú de inicio (o desde el dock, o ejecutando el Anaconda Navigator). 
 
-<!-- Una vez abierto el terminal, se debe navegar hacia la carpeta donde deseas colocar el taller  
+Una vez abierto el terminal, se debe navegar hacia la carpeta donde deseas colocar el taller  
 
 ```bash
 cd /ruta/a/carpeta/taller_copernicus_lac
 ```
 
-Una vez en la carpeta correcta, ejecutar el siguiente comando: -->
+Una vez en la carpeta correcta, ejecutar el siguiente comando:
 
-Una vez abiero el terminal, ejecutar el siguiente comando:
+<!-- Una vez abierto el terminal, ejecutar el siguiente comando: -->
 ```bash
 git clone --recurse-submodules --remote-submodules https://github.com/LabGeo-CopernicusLAC/Taller-IDE-Uruguay.git
 ```
