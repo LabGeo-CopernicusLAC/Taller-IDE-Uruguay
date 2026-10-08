@@ -71,7 +71,7 @@ conda env create -f environment.yml
 Esto crea un entorno de Python llamado **2026Coplac**. El entorno no se activa por defecto, por lo que para activarlo ejecutamos:
 
 ```bash
-conda activate 2026Coplac
+conda activate 2026coplac
 ```
 <!--
 Como último paso antes de iniciar JupyterLab, vamos a registrar el entorno como *kernel* en Jupyter, ejecutando:
