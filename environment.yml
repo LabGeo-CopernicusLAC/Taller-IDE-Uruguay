@@ -1,4 +1,6 @@
 name: 2026coplac
+variables:
+  PYTHONNOUSERSITE: "1"
 channels:
   - conda-forge
   - nodefaults
